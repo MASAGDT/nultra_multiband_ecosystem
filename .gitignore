@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyd
+*.so
+.Python
+.pytest_cache/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# IDEs
+.idea/
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Audio renders and source media
+*.wav
+*.aif
+*.aiff
+*.flac
+*.mp3
+
+# Build artifacts
+build/
+dist/
+*.egg-info/
